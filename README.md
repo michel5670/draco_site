@@ -23,7 +23,11 @@ Site institucional da Lemien Tecnologia com duas frentes:
 1. Altere o texto em `conteudo/politica-de-privacidade.md` ou `conteudo/termos-de-servico.md`.
 2. Rode `pip install markdown` (uma vez) e depois `python3 gerar_documentos.py`.
 
+## Publicação
+
+Publicado pelo GitHub Pages a partir da branch `main` (pasta raiz).
+
 ## Pendências
 
-- Preencher os campos entre colchetes: CNPJ, endereço, e-mail, valor da avaliação, forma de entrega do pendrive, prazos e forma de pagamento.
-- Revisão jurídica da política e dos termos antes de publicar.
+- Incluir CNPJ, endereço e e-mail de contato quando existirem.
+- Revisão jurídica da política e dos termos.

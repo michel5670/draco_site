@@ -4,7 +4,7 @@ A Lemien Tecnologia trata dados pessoais apenas para prestar os serviços contra
 
 ## 1. Quem somos
 
-Lemien Tecnologia, CNPJ [00.000.000/0000-00], com sede em [ENDEREÇO, CIDADE/UF]. Contato para assuntos de privacidade: WhatsApp (11) 96747-1150 e e-mail [E-MAIL DE CONTATO].
+Lemien Tecnologia. Contato para assuntos de privacidade: WhatsApp (11) 96747-1150.
 
 ## 2. Papel da Lemien em cada serviço
 
@@ -47,16 +47,16 @@ O aparelho e a cópia de trabalho ficam sob guarda da Lemien, em ambiente com ac
 
 | Dado | Prazo |
 | --- | --- |
-| Cópia de trabalho do conteúdo do aparelho | Apagada após a entrega ao cliente, em até [X] dias |
+| Cópia de trabalho do conteúdo do aparelho | Apagada após a entrega ao cliente |
 | Documentos de titularidade e dados do atendimento | Pelo prazo exigido pela legislação fiscal e para defesa de direitos, em geral 5 anos |
-| Dados da conta do Draco | Enquanto a assinatura estiver ativa; após o cancelamento, por [X] dias para eventual reativação ou exportação, e depois excluídos |
+| Dados da conta do Draco | Enquanto a assinatura estiver ativa; após o cancelamento, pelo prazo para exportação previsto nos Termos de Serviço, e depois excluídos |
 
 ## 9. Seus direitos
 
-Você pode pedir a qualquer momento, pelos contatos do item 1: confirmação de que tratamos seus dados, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários, portabilidade, informação sobre com quem compartilhamos e revisão de decisões. Respondemos em até 15 dias. Você também pode reclamar à Autoridade Nacional de Proteção de Dados (ANPD).
+Você pode pedir a qualquer momento, pelo contato do item 1: confirmação de que tratamos seus dados, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários, portabilidade, informação sobre com quem compartilhamos e revisão de decisões. Respondemos em até 15 dias. Você também pode reclamar à Autoridade Nacional de Proteção de Dados (ANPD).
 
 ## 10. Cookies
 
 O site usa apenas cookies necessários ao funcionamento.
 
-Última atualização: [DATA DA PUBLICAÇÃO].
+Última atualização: 1º de novembro de 2026.

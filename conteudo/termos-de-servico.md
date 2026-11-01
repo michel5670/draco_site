@@ -17,8 +17,8 @@ Tentativa de extração de dados (fotos, vídeos, conversas, contatos e arquivos
 
 ### 3. Avaliação
 
-1. Todo aparelho passa por avaliação técnica antes da extração.
-2. A avaliação é cobrada, no valor de R$ [VALOR], informado no primeiro contato.
+1. Todo aparelho passa por avaliação técnica antes da extração, concluída em até 7 dias após o recebimento.
+2. A avaliação é cobrada, em valor informado no primeiro contato.
 3. O valor da avaliação não é devolvido quando a extração se mostra inviável, pois remunera o trabalho técnico já realizado.
 
 ### 4. Orçamento
@@ -42,13 +42,13 @@ Os procedimentos podem exigir abrir o aparelho, aquecer componentes ou retirar p
 
 ### 7. Entrega dos dados
 
-1. Os dados recuperados são entregues em pendrive, [FORMA DE ENTREGA: retirada / envio].
-2. O cliente confere o conteúdo na entrega e tem [X] dias para apontar problema na cópia.
-3. Após esse prazo e a confirmação da entrega, a cópia de trabalho é apagada definitivamente e não poderá ser fornecida de novo.
+1. Os dados recuperados são entregues em pendrive, na forma combinada com o cliente pelo WhatsApp.
+2. O cliente confere o conteúdo ao receber o pendrive e confirma o recebimento.
+3. Após a confirmação da entrega, a cópia de trabalho é apagada definitivamente e não poderá ser fornecida de novo.
 
 ### 8. Retirada do aparelho
 
-O aparelho deve ser retirado em até [X] dias após o aviso de conclusão. Depois desse prazo, a Lemien pode cobrar guarda de R$ [VALOR] por dia ou dar ao aparelho a destinação prevista em lei.
+O aparelho deve ser retirado no prazo combinado após o aviso de conclusão do serviço.
 
 ### 9. Conteúdo ilícito
 
@@ -56,7 +56,7 @@ A Lemien não analisa o conteúdo dos aparelhos. Se, ao conferir a extração, t
 
 ### 10. Pagamento
 
-A avaliação e a extração são pagas conforme combinado pelo WhatsApp (11) 96747-1150, [FORMA DE PAGAMENTO: Pix / outra]. Os dados são entregues após a quitação.
+A avaliação e a extração são pagas conforme combinado via Pix, conforme combinado pelo WhatsApp (11) 96747-1150. Os dados são entregues após a quitação.
 
 ### 11. Responsabilidade
 
@@ -71,14 +71,14 @@ O Draco é um sistema de gestão de investigações, oferecido a profissionais q
 ### 2. Plano e pagamento
 
 1. Plano único mensal de R$ 99,00, com acesso a todas as funcionalidades e cadastro ilimitado de casos.
-2. O pagamento é combinado pelo WhatsApp (11) 96747-1150, [FORMA DE PAGAMENTO]. O acesso é liberado no e-mail do assinante após a confirmação.
+2. O pagamento é feito via Pix, combinado pelo WhatsApp (11) 96747-1150. O acesso é liberado no e-mail do assinante após a confirmação.
 3. A falta de pagamento da mensalidade seguinte suspende o acesso até a regularização.
 
 ### 3. Direito de arrependimento e cancelamento
 
 1. Na primeira contratação, o assinante pode desistir em até 7 dias e recebe o valor pago de volta, conforme o art. 49 do Código de Defesa do Consumidor.
 2. Depois disso, pode cancelar a qualquer momento pelo WhatsApp ou pelo suporte do sistema. O acesso segue até o fim do mês já pago, sem reembolso proporcional.
-3. Após o cancelamento, o assinante tem [X] dias para exportar os relatórios dos seus casos. Depois desse prazo, os dados são excluídos.
+3. Após o cancelamento, o assinante tem 30 dias para exportar os relatórios dos seus casos. Depois desse prazo, os dados são excluídos.
 
 ### 4. Uso adequado
 
@@ -101,7 +101,7 @@ As pesquisas em bases externas disponíveis no sistema dependem da disponibilida
 
 ### 7. Disponibilidade e suporte
 
-A Lemien busca manter o sistema disponível continuamente, mas pode haver interrupções para manutenção ou por falhas de terceiros. Dúvidas e problemas são atendidos pelo suporte dentro do sistema, em até [X] dias úteis.
+A Lemien busca manter o sistema disponível continuamente, mas pode haver interrupções para manutenção ou por falhas de terceiros. Dúvidas e problemas são atendidos pelo suporte dentro do sistema ou pelo WhatsApp.
 
 ## Disposições gerais
 
@@ -109,4 +109,4 @@ A Lemien busca manter o sistema disponível continuamente, mas pode haver interr
 2. Se alguma cláusula for considerada inválida, as demais continuam valendo.
 3. Fica eleito o foro do domicílio do cliente consumidor para resolver questões decorrentes destes termos.
 
-Última atualização: [DATA DA PUBLICAÇÃO].
+Última atualização: 1º de novembro de 2026.
