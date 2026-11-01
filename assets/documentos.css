@@ -1,0 +1,18 @@
+body{margin:0;background:#1F2021;color:#E6E6E6;font-family:'Barlow',system-ui,sans-serif;font-size:1.0625rem;line-height:1.7}
+a{color:#D9A47A}a:hover{color:#F0C9A6}
+.wrap{max-width:860px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid #36383A}
+.topo{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;padding-top:18px;padding-bottom:18px}
+.marca{display:flex;align-items:center;gap:12px;text-decoration:none;color:#FFFFFF}
+.marca img{width:44px;height:44px;object-fit:contain}
+.marca span{font-family:'Anton',sans-serif;font-size:1.5rem;letter-spacing:.06em}
+.voltar{font-weight:600}
+.doc{padding-top:56px;padding-bottom:80px}
+.doc h1{font-family:'Anton',sans-serif;font-weight:400;font-size:clamp(2.25rem,6vw,3.5rem);line-height:1.08;color:#FFFFFF;margin:0 0 24px}
+.doc h2{font-family:'Anton',sans-serif;font-weight:400;font-size:2rem;color:#FFFFFF;margin:56px 0 12px;letter-spacing:.01em}
+.doc h3{font-size:1.1875rem;color:#FFFFFF;margin:32px 0 8px}
+.doc strong{color:#FFFFFF}
+.doc table{width:100%;border-collapse:collapse;margin:16px 0;font-size:.9375rem;display:block;overflow-x:auto}
+.doc th,.doc td{border:1px solid #3A3C3E;padding:10px 12px;text-align:left;vertical-align:top}
+.doc th{background:#28292B;color:#FFFFFF}
+footer{background:#17181A;border-top:1px solid #36383A;padding:32px 0;color:#A9AAAB;font-size:.875rem}
